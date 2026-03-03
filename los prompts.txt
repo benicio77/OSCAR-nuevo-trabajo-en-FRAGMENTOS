@@ -1,0 +1,11 @@
+# OSCAR-nuevo-trabajo-en-FRAGMENTOS
+prompt para la programacion: 
+
+quiero que hagas un programa en Python del juego ´El Impostor´ usando IA para que funcione bien. el proyecto tiene que estar dividido en 3 archivos:
+
+principal.py: aqui va todo lo que tiene que ver con los eventos del juego, como cuando haces clic con el raton, pulsas teclas., usas botones en la pantalla y el flujo principal de lo que pasa.
+
+partida.py: este archivo guarda los datos de la partida, como el nombre y número de jugadores, la palabra secreta, los roles, la ronda, el tiempo y esas cosas. También las funciones para manejar esos datos cuando haga falta.
+
+graficos.py: solo sirve para mostrar cosas en la pantalla. No debe llevar logica ni datos, solo enseñar lo que toque: el rol de cada jugador, la palabra si corresponde, las votaciones y las pantallas del juego.
+
